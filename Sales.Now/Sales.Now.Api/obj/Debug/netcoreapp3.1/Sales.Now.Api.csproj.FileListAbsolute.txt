@@ -1,0 +1,9 @@
+C:\Users\linne\source\repos\SalesNow\Sales.Now\Sales.Now.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\linne\source\repos\SalesNow\Sales.Now\Sales.Now.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\linne\source\repos\SalesNow\Sales.Now\Sales.Now.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\linne\source\repos\SalesNow\Sales.Now\Sales.Now.Api\obj\Debug\netcoreapp3.1\Sales.Now.Api.csprojAssemblyReference.cache
+C:\Users\linne\source\repos\SalesNow\Sales.Now\Sales.Now.Api\obj\Debug\netcoreapp3.1\Sales.Now.Api.AssemblyInfoInputs.cache
+C:\Users\linne\source\repos\SalesNow\Sales.Now\Sales.Now.Api\obj\Debug\netcoreapp3.1\Sales.Now.Api.AssemblyInfo.cs
+C:\Users\linne\source\repos\SalesNow\Sales.Now\Sales.Now.Api\obj\Debug\netcoreapp3.1\Sales.Now.Api.RazorTargetAssemblyInfo.cache
+C:\Users\linne\source\repos\SalesNow\Sales.Now\Sales.Now.Api\obj\Debug\netcoreapp3.1\staticwebassets\Sales.Now.Api.StaticWebAssets.Manifest.cache
+C:\Users\linne\source\repos\SalesNow\Sales.Now\Sales.Now.Api\obj\Debug\netcoreapp3.1\staticwebassets\Sales.Now.Api.StaticWebAssets.xml
