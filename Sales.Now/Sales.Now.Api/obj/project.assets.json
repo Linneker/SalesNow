@@ -112,23 +112,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\linne\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\linneker.braga\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\linne\\source\\repos\\SalesNow\\Sales.Now\\Sales.Now.Api\\Sales.Now.Api.csproj",
+      "projectUniqueName": "C:\\Projetos\\SalesNow\\Sales.Now\\Sales.Now.Api\\Sales.Now.Api.csproj",
       "projectName": "Sales.Now.Api",
-      "projectPath": "C:\\Users\\linne\\source\\repos\\SalesNow\\Sales.Now\\Sales.Now.Api\\Sales.Now.Api.csproj",
-      "packagesPath": "C:\\Users\\linne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\linne\\source\\repos\\SalesNow\\Sales.Now\\Sales.Now.Api\\obj\\",
+      "projectPath": "C:\\Projetos\\SalesNow\\Sales.Now\\Sales.Now.Api\\Sales.Now.Api.csproj",
+      "packagesPath": "C:\\Users\\linneker.braga\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\SalesNow\\Sales.Now\\Sales.Now.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\linne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\linneker.braga\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -180,7 +182,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

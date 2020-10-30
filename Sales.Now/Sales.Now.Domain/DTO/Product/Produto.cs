@@ -7,8 +7,9 @@ namespace Sales.Now.Domain.DTO.Product
 {
     public class Produto : AbstractEntity
     {
-        public Produto(string nome, string descricao, decimal valorCompra, decimal valorVenda, int quantidade, DateTime dataCompra, DateTime dataVenda, DateTime? vencimento, Guid tipoProdutoId)
+        public Produto(long codigo,string nome, string descricao, decimal valorCompra, decimal valorVenda, int quantidade, DateTime dataCompra, DateTime dataVenda, DateTime? vencimento, Guid tipoProdutoId)
         {
+            Codigo = codigo;
             Nome = nome;
             Descricao = descricao;
             ValorCompra = valorCompra;
@@ -20,8 +21,9 @@ namespace Sales.Now.Domain.DTO.Product
             TipoProdutoId = tipoProdutoId;
         }
 
-        public Produto(string nome, string descricao, decimal valorCompra, decimal valorVenda, int quantidade, DateTime dataCompra, DateTime dataVenda, DateTime? vencimento, TipoProduto tipoProduto)
+        public Produto(long codigo ,string nome, string descricao, decimal valorCompra, decimal valorVenda, int quantidade, DateTime dataCompra, DateTime dataVenda, DateTime? vencimento, TipoProduto tipoProduto)
         {
+            Codigo = codigo;
             Nome = nome;
             Descricao = descricao;
             ValorCompra = valorCompra;
@@ -32,7 +34,7 @@ namespace Sales.Now.Domain.DTO.Product
             Vencimento = vencimento;
             TipoProduto = tipoProduto;
         }
-
+        public long Codigo { get;private set; }
         public string Nome { get; private set; }
         public string Descricao { get; private set; }
         public decimal ValorCompra { get; private set; }

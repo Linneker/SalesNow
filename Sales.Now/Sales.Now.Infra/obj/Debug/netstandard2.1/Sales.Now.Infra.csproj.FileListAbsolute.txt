@@ -1,0 +1,5 @@
+C:\Projetos\SalesNow\Sales.Now\Sales.Now.Infra\bin\Debug\netstandard2.1\Sales.Now.Infra.deps.json
+C:\Projetos\SalesNow\Sales.Now\Sales.Now.Infra\bin\Debug\netstandard2.1\Sales.Now.Infra.dll
+C:\Projetos\SalesNow\Sales.Now\Sales.Now.Infra\obj\Debug\netstandard2.1\Sales.Now.Infra.csprojAssemblyReference.cache
+C:\Projetos\SalesNow\Sales.Now\Sales.Now.Infra\obj\Debug\netstandard2.1\Sales.Now.Infra.AssemblyInfoInputs.cache
+C:\Projetos\SalesNow\Sales.Now\Sales.Now.Infra\obj\Debug\netstandard2.1\Sales.Now.Infra.AssemblyInfo.cs

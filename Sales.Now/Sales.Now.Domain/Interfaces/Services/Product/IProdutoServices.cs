@@ -2,10 +2,25 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Sales.Now.Domain.Interfaces.Services.Product
 {
     public interface IProdutoServices : IServicesBase<Produto>
     {
+        Produto GetByCodigo(long codigo);
+        Task<Produto> GetByCodigoAsync(long codigo);
+
+        List<Produto> GetByDataVenda(DateTime dataVenda);
+        Task<List<Produto>> GetByDataVendaAsync(DateTime dataVenda);
+
+        List<Produto> GetByDataCompra(DateTime dataCompra);
+        Task<List<Produto>> GetByDataCompraAsync(DateTime dataCompra);
+
+        List<Produto> GetBetweenDataVendaAndDataCompra(DateTime dataVenda, DateTime dataCompra);
+        Task<List<Produto>> GetBetweenDataVendaAndDataCompraAsync(DateTime dataVenda, DateTime dataCompra);
+
+        List<Produto> GetBetweenDataVendaInicialAndDataVendaFinal(DateTime dataVendaInicial, DateTime dataVendaFinal);
+        Task<List<Produto>> GetBetweenDataVendaInicialAndDataVendaFinalAsync(DateTime dataVendaInicial, DateTime dataVendaFinal);
     }
 }

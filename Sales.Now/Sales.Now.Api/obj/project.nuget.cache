@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "GlLUDT/Q/VGAKWF/aUgw/y9Ch9haLsKYpLgMnqbFb5MV9P8bDKZmG2hxHkkofFYqv5Rh9qYdIFxgRKq89O5khA==",
+  "dgSpecHash": "I+wF+OxMDAi0FshMlojEyolnDlQA++/qzYN15BdX6jws6ueqDi84BEznrBZavkx1YLCYxRZzE7Uw1oT6LuBnAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\linne\\source\\repos\\SalesNow\\Sales.Now\\Sales.Now.Api\\Sales.Now.Api.csproj",
+  "projectFilePath": "C:\\Projetos\\SalesNow\\Sales.Now\\Sales.Now.Api\\Sales.Now.Api.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\linne\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
-    "C:\\Users\\linne\\.nuget\\packages\\microsoft.visualstudio.azure.kubernetes.tools.targets\\1.1.0\\microsoft.visualstudio.azure.kubernetes.tools.targets.1.1.0.nupkg.sha512"
+    "C:\\Users\\linneker.braga\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\linneker.braga\\.nuget\\packages\\microsoft.visualstudio.azure.kubernetes.tools.targets\\1.1.0\\microsoft.visualstudio.azure.kubernetes.tools.targets.1.1.0.nupkg.sha512"
   ],
   "logs": []
 }
